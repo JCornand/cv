@@ -53,11 +53,12 @@ about_title: À propos de moi
 #about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_profile_image: images/20220424_202743.jpg
 about_content: | # this will include new lines to allow paragraphs
- Curieux et rigoureux, j’éprouve un intérêt particulier depuis plusieurs années pour le domaine de l’informatique, vers lequel je me suis orienté sur le plan scolaire dès la classe de première. 
- *2022-2023 Bac+3 Administrateur systèmes et réseaux au Cesi, Aix-en-Provence.
- *2020-2022 BTS Système numérique en informatique et réseaux au Lycée Jean Perrin, Marseille.
- *2019-2020 DUT Réseaux et Télécommunications (première année) Institut Universitaire de Technologie d’Aix-Marseille Université.
- *2019 Baccalauréat STI, Sciences et Technologies Industrielles au Lycée Jean Perrin, Marseille.
+ Curieux et rigoureux, j’éprouve un intérêt particulier depuis plusieurs années pour le domaine de l’informatique, vers lequel je me suis orienté sur le plan scolaire dès la classe de première.
+ 
+ * 2022-2023 Bac+3 Administrateur systèmes et réseaux au Cesi, Aix-en-Provence.
+ * 2020-2022 BTS Système numérique en informatique et réseaux au Lycée Jean Perrin, Marseille.
+ * 2019-2020 DUT Réseaux et Télécommunications (première année) Institut Universitaire de Technologie d’Aix-Marseille Université.
+ * 2019 Baccalauréat STI, Sciences et Technologies Industrielles au Lycée Jean Perrin, Marseille.
 
 content:
   - title: Projects # Title for the section
