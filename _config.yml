@@ -27,7 +27,7 @@ darkmode: false
 #facebook_username: jekyll
 #flickr_username: jekyll
 #instagram_username: jekyll
-linkedin_username: Cornand Julien
+linkedin_username: https://www.linkedin.com/in/julien-cornand/
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
@@ -84,9 +84,7 @@ content:
           
           **Gestion de projet**
           Kanban, RACI
-          Planning prévisionnel, GANTT
-          Matrice des risques, indicateurs de pilotages
-          Méthode Agile, Scrum
+          Planning prévisionnel, GANTT, Matrice des risques, indicateurs de pilotages, méthode Agile et Scrum (outil Trello)
           
           **Réseau**
           Architecture TCP/IP - IPv4
