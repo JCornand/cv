@@ -152,9 +152,26 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+     **Expériences Professionnelles**
+      2 septembre 2022 au 25 septembre 2023
+      Administrateur systèmes et réseaux, alternance à dbSQWare, Guardanne 
+      
+      28 avril au 2 juillet
+      Service informatique et bureautique, stage à Square Habitat, Marseille 
+      
+      Juin 2017 
+      Service informatique et bureautique, stage à Saint Gobain, Paris 
+      
+      2015
+      Ouvrier agricole, distillerie de lavande, Ribiers
+      Centres d'intérêts
+      
+      **Sports**
+      
+      Escrime tous les blasons, tournois régionaux.
+      Boxe thaî, Loisir, pratique hebdomadaire.
+      Tennis, Loisir, tournois régionaux.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
