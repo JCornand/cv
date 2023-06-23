@@ -95,7 +95,7 @@ content:
           
           Sécurité – ACL, NAT/PAT
           
-          Services – DNS, DHCP, VTP, HSR, VLAN, VPN
+          Services – DNS, DHCP, VTP, HSRP, VLAN, VPN
           
           **Administration**
           Administration système et réseaux avec Gnu/Linux
