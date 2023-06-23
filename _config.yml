@@ -11,6 +11,7 @@ title: Administrateur systèmes et réseaux
 email: juliencornand@yahoo.fr
 # email_title: Email (Email title override)
 phone: 0627063075
+Téléphone: 0627063075
 # phone_title: Phone (Phone title override)
 #website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
@@ -81,41 +82,41 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           
-          Gestion de projet
+          **Gestion de projet**
           Kanban, RACI
           Planning prévisionnel, GANTT
           Matrice des risques, indicateurs de pilotages
           Méthode Agile, Scrum
           
-          Réseau
+          **Réseau**
           Architecture TCP/IP - IPv4
           Protocoles de routage dynamique – OSPF, BGP, RIP, EIGRP
           Configuration, déploiement, administration, maintenance des réseaux LAN Ethernet 
           Sécurité – ACL, NAT/PAT
           Services – DNS, DHCP, VTP, HSR, VLAN, VPN
           
-          Administration
+          **Administration**
           Administration système et réseaux avec Gnu/Linux 
           Outils - Docker , Ansible
           Base de données - Oracle, PostgreSQL
           
-          Développement
+          **Développement**
           Langages – Python, Bash, C, C++
           Bases de données – Oracle
           Création de site web – HTML5, CSS3 
           
-          Virtualisation
+          **Virtualisation**
           Virtualisation Vmware, HYPER-V, Proxmox, Qemu/Libvirt, ESXI
           
-          Télécoms
+          **Télécoms**
           Traitement numérique/analogique du signal, MATLAB, Scilab
           Téléphonie d'entreprise - Centre d'appel Aastra, Asterisk, Téléphonie IP (Aastra, Grandstream, softphone)
           
-          Hardware
+          **Hardware**
           Électronique (analogique/numérique), Microcontrôleurs, Arduino, Raspberry 
           Liaison série, Bus I2C
           
-          Anglais
+          **Anglais**
           Niveau B2 
 
   - title: Experience
