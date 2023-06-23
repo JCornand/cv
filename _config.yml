@@ -135,7 +135,13 @@ content:
         quote: >
           dbSQWare est une entreprise vendant son logiciel d'exploitation permettant de gérer un ensemble de moteurs de bases de données.
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          • Administration (tâches principales)
+          o Installer et configurer des VM (Linux et Windows)
+          o Installer et configurer des SGBD (MySQL, PostgreSQL, Oracle, …)
+          • Développement informatique (tâches secondaires / participation aux tests)
+          o Développement front (PHP, JS, HTML, …)
+          o Développement batch (Python, Shell, SQL, …)
+          o Développement API (Python, Java, Json, …)
   - title: Parcours
     layout: list
     content:
