@@ -54,7 +54,7 @@ about_title: À propos de moi
 about_profile_image: images/20220424_202743.jpg
 about_content: | # this will include new lines to allow paragraphs
  Curieux et rigoureux, j’éprouve un intérêt particulier depuis plusieurs années pour le domaine de l’informatique, vers lequel je me suis orienté sur le plan scolaire dès la classe de première.
- 
+ Voici mon parcours scolaire:
  * 2022-2023 Bac+3 Administrateur systèmes et réseaux au Cesi, Aix-en-Provence.
  * 2020-2022 BTS Système numérique en informatique et réseaux au Lycée Jean Perrin, Marseille.
  * 2019-2020 DUT Réseaux et Télécommunications (première année) Institut Universitaire de Technologie d’Aix-Marseille Université.
@@ -85,25 +85,28 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: dbSQWare
+        sub_title: Administrateur systèmes et réseaux
+        caption: Date Range (eg. 02 septembre 2022 - present)
+        link: http://www.dbsqware.com/
         quote: >
-          Short description of the company (optional)
+          dbSQWare est une entreprise vendant son logiciel d'exploitation permettant de gérer un ensemble de moteurs de bases de données.
         description: | # this will include new lines to allow paragraphs
           Description of role
-  - title: Education
+  - title: Parcours
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: Cesi
+        sub_title: Bac+3 Administrateur systèmes et réseaux (eg. BA Performing Arts)
+        caption: Date Range (eg. 2022 - 2023)
         quote: >
-          Short institution or course description (optional)
+          Apprentissage sur le design et mise en œuvre d'une infrastructure systèmes et réseaux. Migration et virtualisation dans le Cloud de tout ou partie de l'infrastructure Mise en œuvre des outils d'administration, d'automatisation et de supervision
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Ce que j'ai appris à faire durant ce cursus:
+          * Au 1er semestre : Contribuer à l'administration systèmes et réseaux, documenter les procédures liées à l'administration du SI, collaborer aux projets techniques, gérer le parc informatique et sa maintenance (licences, reporting sur les incidents niv. 2, contrats, garanties). Administrer les systèmes et réseaux en environnement hétérogène.
+
+          * Au 2e semestre : Identifier les grandes phases d'un projet technique et veiller à son organisation. Participer aux choix technologiques, mettre en place les bonnes pratiques et les documentations techniques nécessaire tendant à l'amélioration de la qualité. Assurer une veille technologique, et coacher une équipe technique.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
