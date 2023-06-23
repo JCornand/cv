@@ -61,26 +61,63 @@ about_content: | # this will include new lines to allow paragraphs
  * 2019 Baccalauréat STI, Sciences et Technologies Industrielles au Lycée Jean Perrin, Marseille.
 
 content:
-  - title: Projects # Title for the section
+  - title: Compétences # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        title: Compétences
+        #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #link_text: Link Text
+        #additional_links:
+          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
+            #icon: fab fa-github
+            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          #- title:  Github page for project (eg. sproogen/modern-resume-theme)
+            #icon: fab fa-github
+            #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          
+          Gestion de projet
+          Kanban, RACI
+          Planning prévisionnel, GANTT
+          Matrice des risques, indicateurs de pilotages
+          Méthode Agile, Scrum
+          
+          Réseau
+          Architecture TCP/IP - IPv4
+          Protocoles de routage dynamique – OSPF, BGP, RIP, EIGRP
+          Configuration, déploiement, administration, maintenance des réseaux LAN Ethernet 
+          Sécurité – ACL, NAT/PAT
+          Services – DNS, DHCP, VTP, HSR, VLAN, VPN
+          
+          Administration
+          Administration système et réseaux avec Gnu/Linux 
+          Outils - Docker , Ansible
+          Base de données - Oracle, PostgreSQL
+          
+          Développement
+          Langages – Python, Bash, C, C++
+          Bases de données – Oracle
+          Création de site web – HTML5, CSS3 
+          
+          Virtualisation
+          Virtualisation Vmware, HYPER-V, Proxmox, Qemu/Libvirt, ESXI
+          
+          Télécoms
+          Traitement numérique/analogique du signal, MATLAB, Scilab
+          Téléphonie d'entreprise - Centre d'appel Aastra, Asterisk, Téléphonie IP (Aastra, Grandstream, softphone)
+          
+          Hardware
+          Électronique (analogique/numérique), Microcontrôleurs, Arduino, Raspberry 
+          Liaison série, Bus I2C
+          
+          Anglais
+          Niveau B2 
+
   - title: Experience
     layout: list
     content:
