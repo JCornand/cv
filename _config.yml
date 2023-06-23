@@ -88,27 +88,33 @@ content:
           
           **Réseau**
           Architecture TCP/IP - IPv4
+          
           Protocoles de routage dynamique – OSPF, BGP, RIP, EIGRP
+          
           Configuration, déploiement, administration, maintenance des réseaux LAN Ethernet 
+          
           Sécurité – ACL, NAT/PAT
+          
           Services – DNS, DHCP, VTP, HSR, VLAN, VPN
           
           **Administration**
-          Administration système et réseaux avec Gnu/Linux 
+          Administration système et réseaux avec Gnu/Linux
+          
           Outils - Docker , Ansible
+          
           Base de données - Oracle, PostgreSQL
           
           **Développement**
-          Langages – Python, Bash, C, C++
-          Bases de données – Oracle
-          Création de site web – HTML5, CSS3 
+          Langages Python, Bash, C, C++ -
+          Bases de données Oracle -
+          Création de site web HTML5, CSS3 -
           
           **Virtualisation**
           Virtualisation Vmware, HYPER-V, Proxmox, Qemu/Libvirt, ESXI
           
           **Télécoms**
-          Traitement numérique/analogique du signal, MATLAB, Scilab
-          Téléphonie d'entreprise - Centre d'appel Aastra, Asterisk, Téléphonie IP (Aastra, Grandstream, softphone)
+          Traitement numérique/analogique du signal, MATLAB, Scilab -
+          Téléphonie d'entreprise Centre d'appel Aastra, Asterisk, Téléphonie IP (Aastra, Grandstream, softphone)
           
           **Hardware**
           Électronique (analogique/numérique), Microcontrôleurs, Arduino, Raspberry 
