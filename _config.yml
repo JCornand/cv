@@ -10,9 +10,8 @@ name: Cornand Julien
 title: Administrateur systèmes et réseaux
 email: juliencornand@yahoo.fr
 # email_title: Email (Email title override)
-phone: 0627063075
-Téléphone: 0627063075
-# phone_title: Phone (Phone title override)
+phone:
+phone_title: Phone 0627063075
 #website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
@@ -69,7 +68,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Compétences
+        title: Notions
         #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         #link_text: Link Text
         #additional_links:
@@ -80,7 +79,7 @@ content:
             #icon: fab fa-github
             #url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          Résumer
         description: | # this will include new lines to allow paragraphs
           
           **Gestion de projet**
@@ -130,7 +129,7 @@ content:
       - layout: right
         title: dbSQWare
         sub_title: Administrateur systèmes et réseaux
-        caption: Date Range (eg. 02 septembre 2022 - present)
+        caption: (eg. 02 septembre 2022 - présent)
         link: http://www.dbsqware.com/
         quote: >
           dbSQWare est une entreprise vendant son logiciel d'exploitation permettant de gérer un ensemble de moteurs de bases de données.
@@ -138,6 +137,7 @@ content:
           • Administration (tâches principales)
           
           o Installer et configurer des VM (Linux et Windows)
+          
           o Installer et configurer des SGBD (MySQL, PostgreSQL, Oracle, …)
           
           • Développement informatique (tâches secondaires / participation aux tests)
@@ -154,7 +154,7 @@ content:
       - layout: top-right
         title: Cesi
         sub_title: Bac+3 Administrateur systèmes et réseaux (eg. BA Performing Arts)
-        caption: Date Range (eg. 2022 - 2023)
+        caption: (eg. 2022 - 2023)
         quote: >
           Apprentissage sur le design et mise en œuvre d'une infrastructure systèmes et réseaux. Migration et virtualisation dans le Cloud de tout ou partie de l'infrastructure Mise en œuvre des outils d'administration, d'automatisation et de supervision
         description: | # this will include new lines to allow paragraphs
