@@ -51,7 +51,7 @@ linkedin_username: Cornand Julien
 # About Section
 about_title: À propos de moi
 #about_profile_image: Directory of profile image (eg. images/profile.jpg)
-about_profile_image: images/20220424_202743.jpg
+about_profile_image: images/moi_photo
 about_content: | # this will include new lines to allow paragraphs
  Curieux et rigoureux, j’éprouve un intérêt particulier depuis plusieurs années pour le domaine de l’informatique, vers lequel je me suis orienté sur le plan scolaire dès la classe de première.
  
