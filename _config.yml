@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Cornand Julien
-title: Administrateur systèmes et réseaux
+title: Analyste Cybersécurité
 email: juliencornand@yahoo.fr
 # email_title: Email (Email title override)
 phone:
@@ -36,8 +36,8 @@ linkedin_username: Cornand Julien
 # Additional icon links
 additional_links:
 - title: TryHackMe
-  #icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: <script src="https://tryhackme.com/badge/2561946"></script>
+  icon: images/tryhackme_logo.jpg
+  url: https://tryhackme.com/p/Ayzzeur
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -56,6 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
  Curieux et rigoureux, j’éprouve un intérêt particulier depuis plusieurs années pour le domaine de l’informatique, vers lequel je me suis orienté sur le plan scolaire dès la classe de première.
  
  *Voici mon parcours scolaire:*
+ * 2023-2025 Bac+5 Manager en Infrastructure et Cybersécurité au Cesi, Aix-en-Provence.
  * 2022-2023 Bac+3 Administrateur systèmes et réseaux au Cesi, Aix-en-Provence.
  * 2020-2022 BTS Système numérique en informatique et réseaux au Lycée Jean Perrin, Marseille.
  * 2019-2020 DUT Réseaux et Télécommunications (première année) Institut Universitaire de Technologie d’Aix-Marseille Université.
@@ -110,7 +111,7 @@ content:
           Création de site web HTML5, CSS3 -
           
           **Virtualisation**
-          Virtualisation Vmware, HYPER-V, Proxmox, Qemu/Libvirt, ESXI
+          Virtualisation Vmware, HYPER-V, Proxmox, Qemu/Libvirt, ESXI, Nutanix
           
           **Télécoms**
           Traitement numérique/analogique du signal, MATLAB, Scilab -
@@ -122,7 +123,29 @@ content:
           
           **Anglais**
           Niveau B2 
-
+- title: Experience
+    layout: list
+    content:
+      - layout: right
+        title: Somei
+        sub_title: Analyste Cybersécurité
+        caption: (eg. 14 Décembre 2023 - présent)
+        link: https://www.somei.fr/
+        quote: >
+          Somei est une entreprise éditrice de logiciels dans le domaine de l'eau.
+        description: | # this will include new lines to allow paragraphs
+          • Tâches principales
+          
+            o Analyse de logs (Puits de logs, Qualys, Acunetix)
+            o Administration EDR HarfangLab sur le domaine industriel (OT)
+            o Administration EDR CrowdStrike sur le domaine serveur et bureautique (IT)
+          
+          • Tâches secondaires / participation aux tests
+          
+            o Tests/vérification de la véracité des remontées sur les failles/alertes exposées par Acunetix, Qualys
+            o Développement script batch (Python, Shell …)
+            o Mise en place de KPI
+          
   - title: Experience
     layout: list
     content:
@@ -137,15 +160,12 @@ content:
           • Administration (tâches principales)
           
           o Installer et configurer des VM (Linux et Windows)
-          
           o Installer et configurer des SGBD (MySQL, PostgreSQL, Oracle, …)
           
           • Développement informatique (tâches secondaires / participation aux tests)
           
           o Développement front (PHP, JS, HTML, …)
-          
           o Développement batch (Python, Shell, SQL, …)
-          
           o Développement API (Python, Java, Json, …)
           
   - title: Parcours
@@ -166,11 +186,13 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
      **Expériences Professionnelles**
+      14 Décembre 2023 au 14 Décembre 2025
+      Analyste cybersécurité, alternance à la Somei filiale de la SEM, Marseille
       
-      2 septembre 2022 au 25 septembre 2023
+      2 Septembre 2022 au 25 Septembre 2023
       Administrateur systèmes et réseaux, alternance à dbSQWare, Guardanne 
       
-      28 avril au 2 juillet
+      28 Avril au 2 Juillet
       Service informatique et bureautique, stage à Square Habitat, Marseille 
       
       Juin 2017 
@@ -185,6 +207,7 @@ content:
       Escrime tous les blasons, tournois régionaux.
       Boxe thaî, Loisir, pratique hebdomadaire.
       Tennis, Loisir, tournois régionaux.
+      Escalade, Loisir.
 
 
 # Footer
